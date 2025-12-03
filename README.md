@@ -2,7 +2,7 @@
 
 ### I’m a 3rd Year Computer Science Engineering Student at VIT Chennai
 
-<img align="right" width="350" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="350" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1MR1BTtaAlG_kChP2G-cuE&ust=1764842731670000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCID4pqKWoZEDFQAAAAAdAAAAABAV)">
 
 - 🌱 I'm currently learning **DSA**
 - 🔧 Focusing on **Full Stack Development** & **Machine Learning**
