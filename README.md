@@ -24,3 +24,9 @@ I Code in
   <img src="https://img.icons8.com/?size=100&id=84710&format=png&color=000000" alt="C" width="50"/>
 
 </p>
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/LSN1407?theme=dark&font=Marcellus&ext=contest" alt="LeetCode Stats"/>
+</p>
