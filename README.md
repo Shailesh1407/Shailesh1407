@@ -1,15 +1,16 @@
-## Hi there 👋
+## Hi there! 👋
 
-### I’m a 3rd Year Computer Science Engineering Student at VIT Chennai
+### I’m **Shaileshnathan**, a 3rd Year Computer Science Engineering Student at VIT Chennai
 
-<img align="right" width="350" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="350" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Animated GIF">
 
-- 🌱 I'm currently learning **DSA**
-- 🔧 Focusing on **Full Stack Development** & **Machine Learning**
+- 🌱 Currently learning **Data Structures & Algorithms (DSA)**
+- 💻 Focused on **Full Stack Development** & **Machine Learning**
+- 📫 Reach me at: [shaileshnathan14@gmail.com](mailto:shaileshnathan14@gmail.com)
+
 
 ### Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaileshnathanl)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaileshnathan14@gmail.com)
 
 ---
 
