@@ -8,8 +8,7 @@
 - 💻 Focused on **Full Stack Development** & **Machine Learning**
 - 📫 Reach me at: [shaileshnathan14@gmail.com](mailto:shaileshnathan14@gmail.com)
 
-</br>
-</br>
+
 ### Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaileshnathanl)
 
