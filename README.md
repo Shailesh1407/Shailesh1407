@@ -7,7 +7,7 @@
 - 🌱 Currently learning **Data Structures & Algorithms (DSA)**
 - 💻 Focused on **Full Stack Development** & **Machine Learning**
 - 📫 Reach me at: [shaileshnathan14@gmail.com](mailto:shaileshnathan14@gmail.com)
-- 
+  
 ### 🛠 Tools & Technologies
 - **Cloud & DevOps:** AWS Services
 - **Design & Prototyping:** Figma
