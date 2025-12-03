@@ -9,7 +9,7 @@
 
 <!-- HTML inside Markdown works in GitHub README -->
 
-I Code in 
+Technical Skills
 <p align="left">
 
   <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="HTML" width="50"/>
@@ -25,6 +25,7 @@ I Code in
 
 </p>
 
+Coding Profiles 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/shaileshnathan14)
 [![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/shaileshnathan)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/profile/shaileshn9ph5?tab=activity)
