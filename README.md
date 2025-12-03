@@ -11,7 +11,6 @@
 ### Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaileshnathanl)
 
----
 
 ## 🔧 Technical Skills
 
@@ -28,7 +27,6 @@
   <img src="https://img.icons8.com/?size=100&id=84710&format=png&color=000000" alt="C" width="50"/>
 </p>
 
----
 
 ## 🧩 Coding Profiles  
 
@@ -36,18 +34,11 @@
 [![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/shaileshnathan)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/profile/shaileshn9ph5?tab=activity)
 
----
 
 ## 🧠 LeetCode Stats
 
-<p align="center">
+<p>
   <img src="https://leetcard.jacoblin.cool/LSN1407?theme=dark&font=Marcellus&ext=contest" alt="LeetCode Stats"/>
 </p>
 
----
 
-## 🧠 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/LSN1407?theme=dark&font=Marcellus&ext=contest" alt="LeetCode Stats"/>
-</p>
