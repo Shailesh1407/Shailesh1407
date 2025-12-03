@@ -6,6 +6,7 @@
 - Focusing on Full Stack Development & Machine Learning
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaileshnathanl)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaileshnathan14@gmail.com)
 
 <!-- HTML inside Markdown works in GitHub README -->
 
