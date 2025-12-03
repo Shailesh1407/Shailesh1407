@@ -9,8 +9,7 @@
 
 <!-- HTML inside Markdown works in GitHub README -->
 
-## 🔧 Technical Skills
-
+# Technical Skills
 <p align="left">
   <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="HTML" width="50"/>
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="CSS" width="50"/>
