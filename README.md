@@ -12,7 +12,6 @@
 - **Cloud & DevOps:** AWS Services
 - **Design & Prototyping:** Figma
 - **IDE & Editors:** Visual Studio Code
-- **Productivity:** MS Excel, Word, PowerPoint
 
 
 ### Connect With Me  
