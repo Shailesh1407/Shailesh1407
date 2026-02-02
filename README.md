@@ -38,6 +38,8 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/shaileshnathan14)
 [![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/shaileshnathan)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/profile/shaileshn9ph5?tab=activity)
+[![Codolio](https://img.shields.io/badge/-Codolio-0A66C2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAARUlEQVQoU2NkYGAwZmD4z0AEYBxVSFgxkYGBg+M+Agz+BjCwMDyPwMxowKJkYGBg0MDCwMDA8M9A4p+EZGBgYGBhAbwABAE8vCk0WggMPAAAAAElFTkSuQmCC)](https://codolio.com/profile/LSN1407)
+
 
 
 ## 🧠 LeetCode Stats
