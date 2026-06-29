@@ -5,8 +5,7 @@ A final-year **B.Tech Computer Science** student at **VIT Chennai**, passionate 
 
 I enjoy building **data-driven applications**, **automation workflows**, and **AI-powered solutions** while strengthening my skills in **problem-solving**, **software development**.
 
-- 🌱 Currently learning **Data Structures & Algorithms**
-- 💻 Exploring **Full Stack Development**, **Machine Learning**, and **Data Engineering**
+- 💻 Exploring **Full Stack Development**, **Machine Learning**
 - 🏆 OCI Certified **Generative AI Professional**
 - ⚡ Hands-on with **Python, Java, SQL, and AI workflows**
 
