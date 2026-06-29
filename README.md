@@ -62,4 +62,4 @@ I enjoy building **data-driven applications**, **automation workflows**, and **A
 
 
 # 🧠 LeetCode Stats
-  <img src="https://leetcard.jacoblin.cool/LSN1407?theme=dark&font=Hind%20Vadodara" alt="LeetCode Stats"/>
+[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=LSN1407&theme=github_dark&acceptance=false&reputation=false)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
