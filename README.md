@@ -10,14 +10,10 @@ I enjoy building **data-driven applications**, **automation workflows**, and **A
 - 🏆 OCI Certified **Generative AI Professional**
 - ⚡ Hands-on with **Python, Java, SQL, and AI workflows**
 
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaileshnathanl)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaileshnathan14@gmail.com)
-
----
 
 # 💻 Tech Stack
 
@@ -53,12 +49,10 @@ I enjoy building **data-driven applications**, **automation workflows**, and **A
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
 
 # 📊 GitHub Stats
 ![](https://streak-stats.demolab.com/?user=Shailesh1407&theme=transparent&hide_border=false)<br/>
 
----
 
 # 🧩 Coding Profiles
 
@@ -67,10 +61,6 @@ I enjoy building **data-driven applications**, **automation workflows**, and **A
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/profile/shaileshn9ph5)
 [![Codolio](https://img.shields.io/badge/Codolio-0A66C2?style=for-the-badge)](https://codolio.com/profile/LSN1407)
 
----
 
 # 🧠 LeetCode Stats
-
-<p align="center">
   <img src="https://leetcard.jacoblin.cool/LSN1407?theme=dark&font=Hind%20Vadodara" alt="LeetCode Stats"/>
-</p>
