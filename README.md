@@ -50,7 +50,7 @@ I enjoy building **data-driven applications**, **automation workflows**, and **A
 
 
 # 📊 GitHub Stats
-![](https://streak-stats.demolab.com/?user=Shailesh1407&theme=transparent&hide_border=false)<br/>
+![Shailesh1407's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Shailesh1407&type=contributions&theme=dark)
 
 
 # 🧩 Coding Profiles
