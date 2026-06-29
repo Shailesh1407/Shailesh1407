@@ -56,12 +56,7 @@ I enjoy building **data-driven applications**, **automation workflows**, and **A
 ---
 
 # 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=LSN1407&show_icons=true&theme=transparent&hide_border=false)
-
-![](https://streak-stats.demolab.com/?user=LSN1407&theme=transparent&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LSN1407&layout=compact&theme=transparent&hide_border=false)
+![](https://streak-stats.demolab.com/?user=Shailesh1407&theme=transparent&hide_border=false)<br/>
 
 ---
 
