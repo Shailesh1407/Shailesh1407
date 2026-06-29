@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hi, I'm **Shaileshnathan** 👋  
+Hi, I'm **L Shaileshnathan** 👋  
 A final-year **B.Tech Computer Science** student at **VIT Chennai**, passionate about **Artificial Intelligence, Machine Learning, and Generative AI**.
 
 I enjoy building **data-driven applications**, **automation workflows**, and **AI-powered solutions** while strengthening my skills in **problem-solving**, **software development**.
