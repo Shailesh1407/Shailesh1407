@@ -47,7 +47,7 @@ I have foundational knowledge in Generative AI and hold the Oracle Cloud Infrast
 ## 🧠 LeetCode Stats
 
 <p>
-  <img src="https://leetcard.jacoblin.cool/LSN1407?theme=dark&font=Marcellus&ext=contest" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/LSN1407?theme=dark&font=Marcellus&ext=contest"  alt="LeetCode Stats"/>
 </p>
 
 
