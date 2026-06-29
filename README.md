@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-###### I’m **Shaileshnathan**, a final-year B.Tech Computer Science student at VIT Chennai with a strong interest in Artificial Intelligence, Machine Learning, and Generative AI. I am focused on building a solid foundation in programming, problem-solving, and software development, with hands-on experience in Python and Java.
+I’m **Shaileshnathan**, a final-year B.Tech Computer Science student at VIT Chennai with a strong interest in Artificial Intelligence, Machine Learning, and Generative AI. I am focused on building a solid foundation in programming, problem-solving, and software development, with hands-on experience in Python and Java.
 
 I have foundational knowledge in Generative AI and hold the Oracle Cloud Infrastructure Generative AI Professional certification, which has strengthened my understanding of large language models, prompt engineering, and practical AI applications. I enjoy working on data-driven applications, automation workflows, and AI-powered solutions.
 
