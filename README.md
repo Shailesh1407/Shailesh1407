@@ -9,7 +9,7 @@ I enjoy building **data-driven applications**, **automation workflows**, and **A
 - 🏆 OCI Certified **Generative AI Professional**
 - ⚡ Hands-on with **Python, Java, SQL, and AI workflows**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-zoeq.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-0088CC?style=for-the-badge)](https://portfolio-zoeq.vercel.app/)
 
 ## 🌐 Connect With Me
 
